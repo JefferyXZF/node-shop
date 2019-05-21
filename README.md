@@ -1,14 +1,17 @@
 # 启动项目步骤
 
 #### 第一步：克隆项目
+```
 git clone https://github.com/JefferyXZF/node-shop.git
+```
 
 #### 第二步：安装依赖
 进入项目目录node-shop，执行：npm install 安装依赖
 
 #### 第三步：安装数据库软件
 使用mongoDB数据库，具体安装过程可以参照网上教程。
-管理数据库，可以借助一个可视化软件叫“Studio 3T”，下载路径：https://studio3t.com/，对第四步的导入数据库很方便。
+管理数据库，可以借助一个可视化软件叫“Studio 3T”，下载路径：https://studio3t.com/，
+对第四步的导入数据库操作很方便。
 
 软件界面截图：
 
