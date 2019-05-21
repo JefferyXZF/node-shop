@@ -1,0 +1,7 @@
+{ 
+    "_id" : ObjectId("5c6763ec898adb1e9c33fe97"), 
+    "adminId" : "afafafdd", 
+    "adminName" : "admin", 
+    "adminPwd" : "123456", 
+    "headPic" : "/public/images/person/person.jpg"
+}

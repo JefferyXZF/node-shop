@@ -1,0 +1,573 @@
+{ 
+    "_id" : ObjectId("5c71451eac961f0de03c03d5"), 
+    "color" : [
+        {
+            "value" : "【男】蓝色西装 + 裤子"
+        }, 
+        {
+            "value" : "【男】灰色西装 + 裤子"
+        }, 
+        {
+            "value" : "【男】黑色西装 + 裤子"
+        }, 
+        {
+            "value" : "【女】蓝色西装 + 裙子"
+        }, 
+        {
+            "value" : "【女】灰色西装 + 裙子"
+        }, 
+        {
+            "value" : "【女】黑色西装 + 裙子"
+        }
+    ], 
+    "size" : [
+        {
+            "value" : "L"
+        }, 
+        {
+            "value" : "S"
+        }, 
+        {
+            "value" : "M"
+        }, 
+        {
+            "value" : "XL"
+        }, 
+        {
+            "value" : "2XL"
+        }, 
+        {
+            "value" : "3XL"
+        }, 
+        {
+            "value" : "4XL"
+        }
+    ], 
+    "smallImage" : [
+        "public/images/men/small1550927925553.jpg", 
+        "public/images/men/small1550927925559.jpg", 
+        "public/images/men/small1550927925561.jpg", 
+        "public/images/men/small1550927925562.jpg"
+    ], 
+    "productImage" : [
+        "public/images/men/big1550926806890.jpg", 
+        "public/images/men/big1550926806897.jpg", 
+        "public/images/men/big1550926806895.jpg", 
+        "public/images/men/big1550926806894.jpg"
+    ], 
+    "content" : [
+        {
+            "userName" : "user", 
+            "curStart" : NumberInt(5), 
+            "description" : "西装很好看", 
+            "time" : "2019-4-15 23:47:42"
+        }, 
+        {
+            "userName" : "jeffery1", 
+            "curStart" : NumberInt(5), 
+            "description" : "真棒", 
+            "time" : "2019-4-17 14:09:35"
+        }, 
+        {
+            "userName" : "user", 
+            "curStart" : NumberInt(5), 
+            "description" : "user评论，西装好看", 
+            "time" : "2019-5-10 18:58:52"
+        }
+    ], 
+    "evaluation" : [
+
+    ], 
+    "productId" : "25bbe2f1-dc9d-48de-a80b-821bb965a61a", 
+    "productName" : "男女同款高档西装秋冬修身西服职业套装正装面试装礼服工作服商务", 
+    "subTitle" : "", 
+    "salePrice" : NumberInt(388), 
+    "price" : NumberInt(388), 
+    "discount" : NumberInt(0), 
+    "postage" : NumberInt(0), 
+    "address" : "广州", 
+    "limitNum" : NumberInt(0), 
+    "inventory" : NumberInt(16278), 
+    "productMsg" : "<p><img src=\"public/images/men/detail1550926835403.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/men/detail1550926835404.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/men/detail1550926835406.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/men/detail1550926871121.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/men/detail1550926871112.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/men/detail1550926871214.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/men/detail1550926871215.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/men/detail1550926871217.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/men/detail1550926871219.jpg\" style=\"width: 100%\" /></p>", 
+    "status" : NumberInt(1), 
+    "parameter" : [
+        {
+            "name" : "品牌", 
+            "value" : "托尔图加"
+        }, 
+        {
+            "name" : "尺码", 
+            "value" : " L 4XL 5XL S M XL 2XL 3XL"
+        }, 
+        {
+            "name" : "材质", 
+            "value" : "涤纶"
+        }, 
+        {
+            "name" : "涤纶含量", 
+            "value" : "30%以下"
+        }, 
+        {
+            "name" : "颜色", 
+            "value" : "【男】蓝色西装+裤子 【男】......"
+        }, 
+        {
+            "name" : "细分风格", 
+            "value" : "商务正装"
+        }, 
+        {
+            "name" : "适用场景", 
+            "value" : "宴会"
+        }, 
+        {
+            "name" : "适用季节", 
+            "value" : "秋季"
+        }, 
+        {
+            "name" : "适用对象", 
+            "value" : "青年"
+        }, 
+        {
+            "name" : "领型宽度", 
+            "value" : "规则领型（领宽7-9cm）"
+        }, 
+        {
+            "name" : "西服工艺", 
+            "value" : "粘合衬工艺"
+        }, 
+        {
+            "name" : "材质成分", 
+            "value" : " 羊毛50% 聚酯纤维35%......"
+        }
+    ], 
+    "categoryID" : ObjectId("5c70b2f997262772787162db"), 
+    "createDate" : "2019-2-23 21:05:34", 
+    "updateDate" : "2019-2-24 14:53:44", 
+    "type" : NumberInt(1), 
+    "__v" : NumberInt(0), 
+    "salesVolume" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5c7147569c8bf38c88376450"), 
+    "color" : [
+        {
+            "value" : "浅蓝色"
+        }
+    ], 
+    "size" : [
+        {
+            "value" : "S"
+        }, 
+        {
+            "value" : "M"
+        }, 
+        {
+            "value" : "L"
+        }
+    ], 
+    "smallImage" : [
+        "public/images/women/small1550927642051.jpg", 
+        "public/images/women/small1550927642062.jpg", 
+        "public/images/women/small1550927642064.jpg", 
+        "public/images/women/small1550927642065.jpg"
+    ], 
+    "productImage" : [
+        "public/images/women/big1550927662526.jpg", 
+        "public/images/women/big1550927662622.jpg", 
+        "public/images/women/big1550927662624.jpg", 
+        "public/images/women/big1550927662522.jpg"
+    ], 
+    "content" : [
+        {
+            "userName" : "user", 
+            "curStart" : NumberInt(4), 
+            "description" : "好好看", 
+            "time" : "2019-4-16 12:26:49"
+        }, 
+        {
+            "userName" : "小宝", 
+            "curStart" : NumberInt(5), 
+            "description" : "衣服好看，下次再来", 
+            "time" : "2019-4-17 18:32:43"
+        }
+    ], 
+    "evaluation" : [
+
+    ], 
+    "productId" : "c2963786-b2cd-46fb-9f2a-75efdd518ee3", 
+    "productName" : "2019年新款春季雪纺衬衣女仙女范宽松韩版百搭气质长袖蝴蝶结上衣", 
+    "subTitle" : "", 
+    "salePrice" : NumberInt(139), 
+    "price" : NumberInt(139), 
+    "discount" : NumberInt(0), 
+    "postage" : NumberInt(0), 
+    "address" : "广州", 
+    "limitNum" : NumberInt(0), 
+    "inventory" : NumberInt(0), 
+    "productMsg" : "<p><img src=\"public/images/women/detail1550927685831.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/women/detail1550927685846.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/women/detail1550927685861.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/women/detail1550927685863.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/women/detail1550927685867.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/women/detail1550927685874.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/women/detail1550927686198.jpg\" style=\"width: 100%\" /></p>", 
+    "status" : NumberInt(1), 
+    "parameter" : [
+        {
+            "name" : "质地", 
+            "value" : "其他"
+        }, 
+        {
+            "name" : "尺码", 
+            "value" : "S M L"
+        }, 
+        {
+            "name" : "图案", 
+            "value" : "纯色"
+        }, 
+        {
+            "name" : "风格", 
+            "value" : "通勤"
+        }, 
+        {
+            "name" : "领型", 
+            "value" : "圆领"
+        }, 
+        {
+            "name" : "颜色分类", 
+            "value" : "浅蓝"
+        }, 
+        {
+            "name" : "成分含量", 
+            "value" : "96%及以上"
+        }, 
+        {
+            "name" : "服装版型", 
+            "value" : "直筒"
+        }, 
+        {
+            "name" : "服装款式细节", 
+            "value" : "蝴蝶结 系带 纽扣"
+        }
+    ], 
+    "categoryID" : ObjectId("5c67e25fa74bb4af7079e27f"), 
+    "createDate" : "2019-2-23 21:15:02", 
+    "updateDate" : "2019-2-23 21:15:02", 
+    "type" : NumberInt(1), 
+    "__v" : NumberInt(0), 
+    "salesVolume" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("5c714a4ac79c33f3802bc8fd"), 
+    "color" : [
+        {
+            "value" : "蓝色"
+        }, 
+        {
+            "value" : "黑色"
+        }, 
+        {
+            "value" : "灰色"
+        }
+    ], 
+    "size" : [
+        {
+            "value" : " 170/92A(46A)"
+        }, 
+        {
+            "value" : "180/100A(50A)"
+        }, 
+        {
+            "value" : "185/104A(52A)"
+        }, 
+        {
+            "value" : "180/104B(50B)"
+        }, 
+        {
+            "value" : "185/108B(52B)"
+        }, 
+        {
+            "value" : "190/112B(54B)"
+        }
+    ], 
+    "smallImage" : [
+        "public/images/men/small1550928384257.jpg", 
+        "public/images/men/small1550928384262.jpg", 
+        "public/images/men/small1550928384265.jpg", 
+        "public/images/men/small1550928384268.jpg"
+    ], 
+    "productImage" : [
+        "public/images/men/big1550928406159.jpg", 
+        "public/images/men/big1550928406162.jpg", 
+        "public/images/men/big1550928406156.jpg", 
+        "public/images/men/big1550928406166.jpg"
+    ], 
+    "content" : [
+        {
+            "userName" : "user", 
+            "curStart" : NumberInt(4), 
+            "description" : "真好", 
+            "time" : "2019-4-13 20:03:32"
+        }, 
+        {
+            "userName" : "user", 
+            "curStart" : NumberInt(4), 
+            "description" : "真好111", 
+            "time" : "2019-4-13 20:05:27"
+        }, 
+        {
+            "userName" : "user", 
+            "curStart" : NumberInt(4), 
+            "description" : "真好111", 
+            "time" : "2019-4-13 20:05:28"
+        }, 
+        {
+            "userName" : "user", 
+            "curStart" : NumberInt(5), 
+            "description" : "真好", 
+            "time" : "2019-4-13 20:11:04"
+        }, 
+        {
+            "userName" : "user", 
+            "curStart" : NumberInt(5), 
+            "description" : "这套西装真帅气", 
+            "time" : "2019-4-15 13:20:19"
+        }
+    ], 
+    "evaluation" : [
+
+    ], 
+    "productId" : "18d5e202-0dfe-4602-8973-18cc3252128b", 
+    "productName" : "报喜鸟休闲商务正装西服套装韩版修身宴会礼服纯羊毛工作服套装男", 
+    "subTitle" : "", 
+    "salePrice" : NumberInt(1690), 
+    "price" : NumberInt(3380), 
+    "discount" : NumberInt(5), 
+    "postage" : NumberInt(0), 
+    "address" : "广州", 
+    "limitNum" : NumberInt(0), 
+    "inventory" : NumberInt(1630), 
+    "productMsg" : "<p><img src=\"public/images/men/detail1550928446619.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/men/detail1550928446622.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/men/detail1550928446624.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/men/detail1550928446626.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/men/detail1550928446630.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/men/detail1550928446741.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/men/detail1550928447067.jpg\" style=\"width: 100%\" /></p>", 
+    "status" : NumberInt(1), 
+    "parameter" : [
+        {
+            "name" : "品牌", 
+            "value" : "Saint Angelo/报喜鸟"
+        }, 
+        {
+            "name" : "材质", 
+            "value" : "羊毛"
+        }, 
+        {
+            "name" : "羊毛含量", 
+            "value" : "95%以上"
+        }, 
+        {
+            "name" : "尺码", 
+            "value" : " 170/92A(46A) 180/100A(50A) 185/104A(52A) 180/104B(50B) 185/108B(52B) 190/112B(54B)"
+        }, 
+        {
+            "name" : "面料分类", 
+            "value" : "毛呢布"
+        }, 
+        {
+            "name" : "细分风格", 
+            "value" : "商务正装"
+        }, 
+        {
+            "name" : "基础风格", 
+            "value" : "商务绅士"
+        }, 
+        {
+            "name" : "适用季节", 
+            "value" : "四季"
+        }, 
+        {
+            "name" : "适用场景", 
+            "value" : "宴会"
+        }, 
+        {
+            "name" : "领型宽度", 
+            "value" : "规则领型（领宽7-9cm）"
+        }, 
+        {
+            "name" : "西服工艺", 
+            "value" : "半麻衬工艺"
+        }
+    ], 
+    "categoryID" : ObjectId("5c70b2f997262772787162db"), 
+    "createDate" : "2019-2-23 21:27:38", 
+    "updateDate" : "2019-2-24 12:27:57", 
+    "type" : NumberInt(1), 
+    "__v" : NumberInt(0), 
+    "salesVolume" : NumberInt(2)
+}
+{ 
+    "_id" : ObjectId("5c8bc4fcf995110fa03af33d"), 
+    "color" : [
+        {
+            "value" : "藏青"
+        }, 
+        {
+            "value" : "墨绿"
+        }
+    ], 
+    "size" : [
+        {
+            "value" : "XL"
+        }, 
+        {
+            "value" : "2XL"
+        }, 
+        {
+            "value" : "3XL"
+        }, 
+        {
+            "value" : "M"
+        }, 
+        {
+            "value" : "L"
+        }
+    ], 
+    "smallImage" : [
+        "public/images/women1/small1552663709021.jpg", 
+        "public/images/women1/small1552663712531.jpg", 
+        "public/images/women1/small1552663716302.jpg", 
+        "public/images/women1/small1552663719376.jpg"
+    ], 
+    "productImage" : [
+        "public/images/women1/big1552663726052.jpg", 
+        "public/images/women1/big1552663729743.jpg", 
+        "public/images/women1/big1552663733331.jpg", 
+        "public/images/women1/big1552663736446.jpg"
+    ], 
+    "content" : [
+        {
+            "userName" : "user", 
+            "curStart" : NumberInt(4), 
+            "description" : "评论匹配11", 
+            "time" : "2019-4-13 20:24:38"
+        }, 
+        {
+            "userName" : "user", 
+            "curStart" : NumberInt(1), 
+            "description" : "评论塞俄11", 
+            "time" : "2019-4-13 20:34:38"
+        }, 
+        {
+            "userName" : "user", 
+            "curStart" : NumberInt(2), 
+            "description" : "评论1二万人12233", 
+            "time" : "2019-4-13 20:44:38"
+        }, 
+        {
+            "userName" : "user", 
+            "curStart" : NumberInt(5), 
+            "description" : "评论1韦尔热12233", 
+            "time" : "2019-4-13 20:44:38"
+        }, 
+        {
+            "userName" : "张三", 
+            "curStart" : NumberInt(5), 
+            "description" : "真的很好看，下次再来", 
+            "time" : "2019-4-14 00:29:07"
+        }, 
+        {
+            "userName" : "user", 
+            "curStart" : NumberInt(5), 
+            "description" : "裙子很好看，下次再来", 
+            "time" : "2019-4-15 13:30:55"
+        }, 
+        {
+            "userName" : "user", 
+            "curStart" : NumberInt(3), 
+            "description" : "好看", 
+            "time" : "2019-4-16 10:52:45"
+        }, 
+        {
+            "userName" : "jeffery", 
+            "curStart" : NumberInt(5), 
+            "description" : "好好看", 
+            "time" : "2019-4-17 00:31:21"
+        }, 
+        {
+            "userName" : "jeffery", 
+            "curStart" : NumberInt(5), 
+            "description" : "牛逼啊", 
+            "time" : "2019-4-17 13:27:16"
+        }, 
+        {
+            "userName" : "jeffery", 
+            "curStart" : NumberInt(4), 
+            "description" : "测试111111", 
+            "time" : "2019-4-17 13:47:29"
+        }, 
+        {
+            "userName" : "小宝", 
+            "curStart" : NumberInt(5), 
+            "description" : "再来一件", 
+            "time" : "2019-4-17 18:53:44"
+        }
+    ], 
+    "evaluation" : [
+
+    ], 
+    "productId" : "72c66417-a171-4950-b1d6-f00019155d13", 
+    "productName" : "2019新款春装中长款长袖连衣裙显瘦韩版气质女装打底格子衬衫裙潮", 
+    "subTitle" : "修身显瘦收腰格子裙子 天猫品质", 
+    "salePrice" : NumberInt(199), 
+    "price" : NumberInt(398), 
+    "discount" : NumberInt(5), 
+    "postage" : NumberInt(3), 
+    "address" : "广州", 
+    "limitNum" : NumberInt(0), 
+    "inventory" : NumberInt(700), 
+    "productMsg" : "<p><img src=\"public/images/women1/detail1552663752471.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/women1/detail1552663752476.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/women1/detail1552663752482.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/women1/detail1552663752495.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/women1/detail1552663752499.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/women1/detail1552663767489.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/women1/detail1552663786344.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/women1/detail1552663786358.jpg\" style=\"width: 100%\" /></p>\n<p><img src=\"public/images/women1/detail1552663786373.jpg\" style=\"width: 100%\" /></p>", 
+    "status" : NumberInt(1), 
+    "parameter" : [
+        {
+            "name" : "品牌名称", 
+            "value" : "所佩"
+        }, 
+        {
+            "name" : "适用年龄", 
+            "value" : " 25-29周岁"
+        }, 
+        {
+            "name" : "尺码", 
+            "value" : "M L XL 2XL 3XL"
+        }, 
+        {
+            "name" : "图案:", 
+            "value" : "格子"
+        }, 
+        {
+            "name" : "风格", 
+            "value" : "通勤"
+        }, 
+        {
+            "name" : "颜色分类", 
+            "value" : "焦糖 藏青 墨绿"
+        }, 
+        {
+            "name" : "裙长", 
+            "value" : " 中长裙"
+        }, 
+        {
+            "name" : "流行元素/工艺", 
+            "value" : "褶皱 系带 纽扣 拉链 印花"
+        }, 
+        {
+            "name" : "销售渠道类型", 
+            "value" : "纯电商(只在线上销售)"
+        }, 
+        {
+            "name" : "廓形", 
+            "value" : "A型"
+        }, 
+        {
+            "name" : "材质成分", 
+            "value" : "聚酯纤维65.2% 棉34.8%"
+        }
+    ], 
+    "categoryID" : ObjectId("5c67e25fa74bb4af7079e27f"), 
+    "createDate" : "2019-3-15 23:30:04", 
+    "updateDate" : "2019-3-15 23:30:04", 
+    "type" : NumberInt(2), 
+    "__v" : NumberInt(0), 
+    "salesVolume" : NumberInt(8)
+}

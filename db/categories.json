@@ -1,0 +1,33 @@
+{ 
+    "_id" : ObjectId("5c67e25fa74bb4af7079e27f"), 
+    "categoryId" : "8f015340-31d3-11e9-bdb0-21e916232128", 
+    "categoryName" : "女装", 
+    "createTime" : "2019-2-16 18:13:51", 
+    "__v" : NumberInt(0), 
+    "status" : "1", 
+    "desc" : "女装漂亮", 
+    "sorting" : NumberInt(3), 
+    "updateTime" : "2019-4-27 22:27:33"
+}
+{ 
+    "_id" : ObjectId("5c70b2f997262772787162db"), 
+    "categoryId" : "98f509a0-3714-11e9-bcd9-37bb64eb079a", 
+    "categoryName" : "男装", 
+    "createTime" : "2019-2-23 10:42:01", 
+    "updateTime" : "2019-4-27 22:27:28", 
+    "status" : "1", 
+    "sorting" : NumberInt(-1), 
+    "desc" : "男装帅气", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c8c42dc557c64087cbef97a"), 
+    "categoryId" : "3be22df0-4782-11e9-bac1-9571a758da55", 
+    "categoryName" : "男童装", 
+    "createTime" : "2019-3-16 08:27:08", 
+    "updateTime" : "2019-5-8 18:01:14", 
+    "status" : "0", 
+    "sorting" : NumberInt(2), 
+    "desc" : "男童装商品分类", 
+    "__v" : NumberInt(0)
+}

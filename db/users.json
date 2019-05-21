@@ -1,0 +1,128 @@
+{ 
+    "_id" : ObjectId("5c77f058cc45ada304722e05"), 
+    "orderList" : [
+        {
+            "orderId" : "880088712d633d-efa2-4366-8c7b-9ee3e1d71e8f", 
+            "goods" : {
+                "productId" : "25bbe2f1-dc9d-48de-a80b-821bb965a61a", 
+                "productName" : "男女同款高档西装秋冬修身西服职业套装正装面试装礼服工作服商务", 
+                "salePrice" : NumberInt(388), 
+                "color" : "【男】蓝色西装 + 裤子", 
+                "size" : "L", 
+                "smallImage" : "public/images/men/small1550927925553.jpg", 
+                "bigImage" : "public/images/men/big1550926806890.jpg", 
+                "productNum" : NumberInt(1), 
+                "checked" : NumberInt(1)
+            }, 
+            "address" : {
+                "_id" : "5c9d6c0057e59937204826de", 
+                "addressId" : "a7780281-c8e7-471d-a933-db318756f15b", 
+                "userName" : "user", 
+                "tel" : 13532234313.0, 
+                "streetName" : "广州海珠区", 
+                "isDefault" : true
+            }, 
+            "orderStatus" : NumberInt(5), 
+            "createDate" : "2019-5-10 18:55:17", 
+            "payDate" : "2019-5-10 18:55:24", 
+            "deliverDate" : "", 
+            "completeDate" : "2019-5-10 18:57:06", 
+            "evaluateDate" : "2019-5-10 18:58:52"
+        }, 
+        {
+            "orderId" : "880088e11362a2-518b-4eaf-98c1-dfe48170dad2", 
+            "goods" : {
+                "_id" : "5cd557fd0a12014e3c8518ea", 
+                "productId" : "72c66417-a171-4950-b1d6-f00019155d13", 
+                "productNum" : NumberInt(2), 
+                "checked" : NumberInt(1), 
+                "productName" : "2019新款春装中长款长袖连衣裙显瘦韩版气质女装打底格子衬衫裙潮", 
+                "salePrice" : NumberInt(199), 
+                "color" : "藏青", 
+                "size" : "XL", 
+                "smallImage" : "public/images/women1/small1552663709021.jpg", 
+                "bigImage" : "public/images/women1/big1552663726052.jpg"
+            }, 
+            "address" : {
+                "_id" : "5c9d6c0057e59937204826de", 
+                "addressId" : "a7780281-c8e7-471d-a933-db318756f15b", 
+                "userName" : "user", 
+                "tel" : 13532234313.0, 
+                "streetName" : "广州海珠区", 
+                "isDefault" : true
+            }, 
+            "orderStatus" : NumberInt(2), 
+            "createDate" : "2019-5-10 18:54:00", 
+            "payDate" : "2019-5-10 18:58:05", 
+            "deliverDate" : "", 
+            "completeDate" : "", 
+            "evaluateDate" : ""
+        }
+    ], 
+    "collectGoods" : [
+
+    ], 
+    "comment" : [
+
+    ], 
+    "userId" : "b747459d-8b30-4a87-8dc8-a53d34b0b1e1", 
+    "userName" : "user", 
+    "userPwd" : "123456", 
+    "headPic" : "/public/images/person/person.jpg", 
+    "cartList" : [
+        {
+            "_id" : ObjectId("5cd557fd0a12014e3c8518ea"), 
+            "productId" : "72c66417-a171-4950-b1d6-f00019155d13", 
+            "productNum" : NumberInt(2), 
+            "checked" : NumberInt(1), 
+            "productName" : "2019新款春装中长款长袖连衣裙显瘦韩版气质女装打底格子衬衫裙潮", 
+            "salePrice" : NumberInt(199), 
+            "color" : "藏青", 
+            "size" : "XL", 
+            "smallImage" : "public/images/women1/small1552663709021.jpg", 
+            "bigImage" : "public/images/women1/big1552663726052.jpg"
+        }
+    ], 
+    "addressList" : [
+        {
+            "_id" : ObjectId("5c9d6c0057e59937204826de"), 
+            "addressId" : "a7780281-c8e7-471d-a933-db318756f15b", 
+            "userName" : "user", 
+            "tel" : 13532234313.0, 
+            "streetName" : "广州海珠区", 
+            "isDefault" : true
+        }, 
+        {
+            "_id" : ObjectId("5c9d6c1957e59937204826df"), 
+            "addressId" : "d754898a-f2e6-46e6-a2e0-2db5d7b859dc", 
+            "userName" : "张三", 
+            "tel" : 13533234244.0, 
+            "streetName" : "广州天河区", 
+            "isDefault" : false
+        }
+    ], 
+    "__v" : NumberInt(157)
+}
+{ 
+    "_id" : ObjectId("5cb6b0d043eff25d3c2a1a51"), 
+    "orderList" : [
+
+    ], 
+    "collectGoods" : [
+
+    ], 
+    "comment" : [
+
+    ], 
+    "userId" : "af3f9560-9391-4933-9b6d-366deb64a49c", 
+    "userName" : "Jeffery", 
+    "userPwd" : "123456", 
+    "headPic" : "/public/images/person/person.jpg", 
+    "cartList" : [
+
+    ], 
+    "addressList" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
